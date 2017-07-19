@@ -11,3 +11,5 @@ Value of power p in idw can be varied using the 'idp' parameter.
 Output is a plot containing predicted values at unknown locations.
 
 Screenshot : Left is an interpolated plot of lead data using IDW with p=10 and right is the interpolated plot of the same in trend surface.
+
+![screenshot](https://user-images.githubusercontent.com/8946566/28350818-22daf670-6c69-11e7-8639-cfaa78b68b32.jpg)
